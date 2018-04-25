@@ -1,3 +1,3 @@
 class Cat 
-  attr_accessor :name, :meaw
+  attr_accessor :name 
 end 
